@@ -17,10 +17,17 @@ Topics include:
 
 ## Related Figures
 
-- `../figures/spectral_gap_heatmap.png`
-- `../figures/mean_spectral_gap_layers.png`
-- `../figures/eigenvalue_spectrum.png`
-- `../figures/spectral_gap_difference_paris_banana.png`
+### Spectral Gap Heatmap
+![Spectral Gap Heatmap](../figures/spectral_gap_heatmap.png)
+
+### Mean Spectral Gap Across Layers
+![Mean Spectral Gap](../figures/mean_spectral_gap_layers.png)
+
+### Eigenvalue Spectrum
+![Eigenvalue Spectrum](../figures/eigenvalue_spectrum.png)
+
+### Spectral Gap Difference (Paris vs Banana)
+![Spectral Gap Difference](../figures/spectral_gap_difference_paris_banana.png)
 
 ## Status
 
