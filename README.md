@@ -50,3 +50,14 @@ These findings are preliminary and require further testing.
 ## Status
 
 Early exploratory research.
+
+## Current Repository Contents
+
+- Exploratory paper
+- Reproducible Colab notebook
+- Spectral plots and perturbation heatmaps
+- Preliminary operator-spectral diagnostics
+
+## Current Focus
+
+The current focus is reproducible exploratory experimentation rather than large theoretical claims.
